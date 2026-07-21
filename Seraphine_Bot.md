@@ -21,7 +21,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### Primary
+### ![alt text](image.png)Primary
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture>Arcane Comet
 	1. First Row
@@ -33,7 +33,7 @@
 	3. Third Row
 		- Scorch (Default)
 		- Gathering Storm (If you don't need combat power in lane)
-		
+
 {
 	- Presence of Mind (Default)
 	
