@@ -9,17 +9,17 @@
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
-		- Low Magic damage teams
+		- 🔻✨ Low Magic damage teams
 3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;"></picture>First Strike
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
-		- High Magic damage teams
+		- 🔺✨ High Magic damage teams
 4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;"></picture>Glacial Augment
 	- vs
-		- ⬇🛣️⚔️ Low Laning power
+		- 🔻🛣️⚔️ Low Laning power
 	- with
-		- ⬇⛓️ Low CC, ⬆⚔️ High Damage teams
+		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
 Primary
 {
