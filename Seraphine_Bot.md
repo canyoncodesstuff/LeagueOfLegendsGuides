@@ -21,7 +21,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### ![alt text](image.png)Primary
+### <picture><img src="image.png" style="width:21px;height:21px"></picture>Primary
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture>Arcane Comet
 	1. First Row
