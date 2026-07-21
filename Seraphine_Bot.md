@@ -1,4 +1,4 @@
-# <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:auto;"></picture>Seraphine Guide
+# <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:10px;height:10px;"></picture>Seraphine Guide
 
 ## Runes
 	
