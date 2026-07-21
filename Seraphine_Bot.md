@@ -1,12 +1,25 @@
-Seraphine Guide
+# Seraphine Guide
 
-	Runes
+## Runes
 	
-Keystone
-- Arcane Comet (Default)
-- Conquerer (vs Tanky comps, w/ Long Trades, and low magic damage team)
-- First Strike (vs Tanky comps, w/ AoE Value, and high magic damage team)
-- Glacial Augment (If your team lacks CC, has plenty of damage, and you don't need laning combat power)
+### Keystone
+1. ![Arcane Comet](https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0)Arcane Comet
+	- Default choice.
+2. Conquerer
+	- vs 
+		- Tanky comps, w/ Long Trades
+	- with
+		- Low Magic damage teams
+3. First Strike
+	- vs
+		- Tanky comps, w/ AoE Value
+	- with
+		- High Magic damage teams
+4. Glacial Augment
+	- vs
+		- Low Laning power
+	- with
+		- Low CC, High Damage teams
 
 Primary
 {
