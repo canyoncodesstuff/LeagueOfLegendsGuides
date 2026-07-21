@@ -3,23 +3,23 @@
 ## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:50px;"></picture>Runes
 	
 ### 🔑🪨 Keystone
-1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:25px;"></picture>Arcane Comet
+1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture>Arcane Comet
 	- Default choice.
-2. Conquerer
+2. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;"></picture>Conqueror
 	- vs 
-		- Tanky comps, w/ Long Trades
+		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- Low Magic damage teams
-3. First Strike
+3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;"></picture>First Strike
 	- vs
-		- Tanky comps, w/ AoE Value
+		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- High Magic damage teams
-4. Glacial Augment
+4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;"></picture>Glacial Augment
 	- vs
-		- Low Laning power
+		- ⬇🛣️⚔️ Low Laning power
 	- with
-		- Low CC, High Damage teams
+		- ⬇⛓️ Low CC, ⬆⚔️ High Damage teams
 
 Primary
 {
