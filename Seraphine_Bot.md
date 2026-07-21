@@ -5,23 +5,23 @@
 ### **Keystone** 🔑🪨
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> <ins>Arcane Comet</ins>
 	- Default choice.
-2. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;"></picture> Conqueror
+2. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;"></picture> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- 🔻✨ Low Magic damage teams
-3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;"></picture> First Strike
+3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;"></picture> <ins>First Strike</ins>
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- 🔺✨ High Magic damage teams
-4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;"></picture> Glacial Augment
+4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;"></picture> <ins>Glacial Augment</ins>
 	- vs
 		- 🔻🛣️⚔️ Low Laning power
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <picture><img src="images\primary.png" style="width:21px;height:21px"></picture> **Primary**
+### **Primary** <picture><img src="images\primary.png" style="width:21px;height:21px"></picture>
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
 	1. First Row
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <picture><img src="images\secondary.png" style="width:21px;height:21px"> **Secondary**
+### **Secondary** <picture><img src="images\secondary.png" style="width:21px;height:21px">
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
@@ -83,7 +83,7 @@
 	- Transcendence (Default)
 }
 
-### <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/BE_icon.png/100px-BE_icon.png?7e9ea" style="width:21px;height:21px"></picture> **Shards**
+### **Shards** <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/BE_icon.png/100px-BE_icon.png?7e9ea" style="width:21px;height:21px"></picture>
 
 - Ability Haste (Default)
 
