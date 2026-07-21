@@ -1,4 +1,4 @@
-# Seraphine Guide
+# ![Seraphina](https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d)Seraphine Guide
 
 ## Runes
 	
