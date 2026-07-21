@@ -3,7 +3,7 @@
 ## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:50px;"></picture>Runes
 	
 ### 🔑🪨 Keystone
-1. ![Arcane Comet](https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0)Arcane Comet
+1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:25px;"></picture>Arcane Comet
 	- Default choice.
 2. Conquerer
 	- vs 
