@@ -1,6 +1,6 @@
 # <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:100px;"></picture> Seraphina Bot Lane Guide
 
-## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:20px;"></picture> Runes
+## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:35px;"></picture> Runes
 	
 ### 🔑🪨 Keystone
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
@@ -21,7 +21,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <picture><img src="image-3.png" style="width:20px;height:20px"></picture> Primary
+### <picture><img src="image-3.png" style="width:30px;height:30px"></picture> Primary
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
 	1. First Row
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <picture><img src="image-2.png" style="width:20px;height:20px"> Secondary
+### <picture><img src="image-2.png" style="width:30px;height:30px"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
