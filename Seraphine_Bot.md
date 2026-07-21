@@ -2,7 +2,7 @@
 
 ## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:35px;"></picture> Runes
 	
-### 🔑🪨 Keystone
+### 🔑🪨 **Keystone**
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
 	- Default choice.
 2. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;"></picture> Conqueror
@@ -21,7 +21,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <picture><img src="image-3.png" style="width:21px;height:21px"></picture> Primary
+### <picture><img src="image-3.png" style="width:21px;height:21px"></picture> **Primary**
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
 	1. First Row
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <picture><img src="image-2.png" style="width:21px;height:21px"> Secondary
+### <picture><img src="image-2.png" style="width:21px;height:21px"> **Secondary**
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
