@@ -1,8 +1,8 @@
 # <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:100px;"></picture>Seraphina Bot Lane Guide
 
-## Runes
+## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:50px;"></picture>Runes
 	
-### Keystone
+### 🔑🪨 Keystone
 1. ![Arcane Comet](https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0)Arcane Comet
 	- Default choice.
 2. Conquerer
