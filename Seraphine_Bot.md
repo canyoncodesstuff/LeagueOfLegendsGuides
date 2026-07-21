@@ -21,7 +21,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <picture><img src="image-3.png" style="width:21px;height:21px"></picture> **Primary**
+### <picture><img src="images\primary.png" style="width:21px;height:21px"></picture> **Primary**
 
 1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;"></picture> Arcane Comet
 	1. First Row
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <picture><img src="image-2.png" style="width:21px;height:21px"> **Secondary**
+### <picture><img src="images\secondary.png" style="width:21px;height:21px"> **Secondary**
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
@@ -83,7 +83,8 @@
 	- Transcendence (Default)
 }
 
-Shards
+### <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/BE_icon.png/100px-BE_icon.png?7e9ea" style="width:21px;height:21px"></picture> **Shards**
+
 - Ability Haste (Default)
 
 - Scaling Health (Default)
