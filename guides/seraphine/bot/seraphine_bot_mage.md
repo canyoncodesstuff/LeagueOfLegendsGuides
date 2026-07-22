@@ -1,6 +1,6 @@
-# <img src="../../../images/champions_centered/Seraphine_0.jpg" width="100" height="100" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Seraphine" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Seraphine" align="absmiddle"> Seraphina Bot Lane Mage Guide
+# <img src="../../../images/champions_centered/Seraphine_0.jpg" width="150" height="150" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
-## <img src="../../../images/runes/RunesIcon.png" width="24" height="24" alt="Runes" align="absmiddle"> Runes
+## <img src="../../../images/runes/RunesIcon.png" width="40" height="40" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
