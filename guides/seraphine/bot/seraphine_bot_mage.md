@@ -1,4 +1,4 @@
-# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="45%" height="45%" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="45%" height="45%" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
+# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" height="45%" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" height="45%" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
 ## <img src="../../../images/runes/RunesIcon.png" width="40" height="40" alt="Runes" align="absmiddle"> Runes
 	
