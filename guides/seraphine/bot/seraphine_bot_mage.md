@@ -29,8 +29,8 @@
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	<br/>
 	<br/>
-	<img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle">	
-	|	<img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*
+	<img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;
+	|&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/CelerityTemp.png" width="32" height="32" alt="Celerity" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/AbsoluteFocus.png" width="32" height="32" alt="Absolute Focus" align="absmiddle">	
@@ -113,7 +113,7 @@
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
 	| 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> *If you really need your summoners up, swap with Cash Back*
-	
+
 {
 	- Manaflow Band (Default)
 	- Transcendence (Default)
