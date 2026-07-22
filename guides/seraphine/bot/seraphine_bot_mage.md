@@ -1,6 +1,6 @@
 # <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
-## <img src="../../../images/runes/RunesIcon.png" width="64" height="64" alt="Runes" align="absmiddle"> Runes
+## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
@@ -22,7 +22,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <img src="../../../images/custom_emojis/primary.png" width="48" height="48" alt="Primary" align="absmiddle"> Primary
+### <img src="../../../images/custom_emojis/primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
 
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	1. First Row
@@ -56,7 +56,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <img src="../../../images/custom_emojis/secondary.png" width="48" height="48" alt="Secondary" align="absmiddle"> Secondary
+### <img src="../../../images/custom_emojis/secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
