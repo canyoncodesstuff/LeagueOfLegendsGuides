@@ -27,8 +27,8 @@
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> Primary
 
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
-	1. First Row
-		- Manaflow Band (Default)
+	1. <img src="../../../images\runes\sorcery\choices\Axiom_Arcanist.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> <img src="../../../images\runes\sorcery\choices\ManaflowBand.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> <img src="images\runes\sorcery\choices\6361.png" width="32" height="32" alt="Arcane Comet" align="absmiddle">
+		- <img src="../../../images\runes\sorcery\choices\ManaflowBand.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> (Default)
 	
 	2. Second Row
 		- Transcendence (Default)
