@@ -43,48 +43,58 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> *Default* **OR** <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle"> If you don't need combat power in lane.
 	<br/>
+	<br/>
 
 2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/AbsorbLife.png" width="32" height="32" alt="Absorb Life" align="absmiddle"> <img src="../../../images/runes/precision/choices/Triumph.png" width="32" height="32" alt="Triumph" align="absmiddle"> <img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle">
-	| 	<img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/LegendAlacrity.png" width="32" height="32" alt="Legend: Alacrity" align="absmiddle"> <img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> <img src="../../../images/runes/precision/choices/LegendBloodline.png" width="32" height="32" alt="Legend: Bloodline" align="absmiddle">
-	| 	<img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> <img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> <img src="../../../images/runes/precision/choices/LastStand.png" width="32" height="32" alt="Last Stand" align="absmiddle">
-	| 	<img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> *Default*
 
 3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/TimeWarpTonic.png" width="32" height="32" alt="Time Warp Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/BiscuitDelivery.png" width="32" height="32" alt="Biscuit Delivery" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
 
 4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/TimeWarpTonic.png" width="32" height="32" alt="Time Warp Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/BiscuitDelivery.png" width="32" height="32" alt="Biscuit Delivery" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
 
 ### <img src="../../../images/custom_emojis/secondary.png" width="32" height="32" alt="Secondary" align="absmiddle"> Secondary
 
@@ -92,30 +102,35 @@
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/AbsorbLife.png" width="32" height="32" alt="Absorb Life" align="absmiddle"> <img src="../../../images/runes/precision/choices/Triumph.png" width="32" height="32" alt="Triumph" align="absmiddle"> <img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle">
-	|
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/LegendAlacrity.png" width="32" height="32" alt="Legend: Alacrity" align="absmiddle"> <img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> <img src="../../../images/runes/precision/choices/LegendBloodline.png" width="32" height="32" alt="Legend: Bloodline" align="absmiddle">
-	| 	<img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/precision/choices/LegendHaste.png" width="32" height="32" alt="Legend: Haste" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> <img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> <img src="../../../images/runes/precision/choices/LastStand.png" width="32" height="32" alt="Last Stand" align="absmiddle">
-	| 	<img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> *Default*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> *Default*
 	<br/>
 	<br/>
 	**OR**
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default if Gathering Storm*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> *Default if Gathering Storm*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/TimeWarpTonic.png" width="32" height="32" alt="Time Warp Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/BiscuitDelivery.png" width="32" height="32" alt="Biscuit Delivery" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default if Gathering Storm*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> *Default if Gathering Storm*
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
-	| 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> *If you really need your summoners up, swap with Cash Back*
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> *If you really need your summoners up, swap with Cash Back*
 
 {
 	- Manaflow Band (Default)
