@@ -1,10 +1,11 @@
-# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
+# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="45%" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="45%" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
 ## <img src="../../../images/runes/RunesIcon.png" width="40" height="40" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
+
 2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
