@@ -1,30 +1,30 @@
 # <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
-## <img src="../../../images/runes/RunesIcon.png" width="40" height="40" alt="Runes" align="absmiddle"> Runes
+## <img src="../../../images/runes/RunesIcon.png" width="64" height="64" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
-1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
+1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
 	
-2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
+2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- 🔻✨ Low Magic damage teams
-3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="35" height="35" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
+3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- 🔺✨ High Magic damage teams
-4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="35" height="35" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
+4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
 	- vs
 		- 🔻🛣️⚔️ Low Laning power
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <img src="../../../images/custom_emojis/primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
+### <img src="../../../images/custom_emojis/primary.png" width="48" height="48" alt="Primary" align="absmiddle"> Primary
 
-1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	1. First Row
 		- Manaflow Band (Default)
 	
@@ -56,7 +56,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <img src="../../../images/custom_emojis/secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
+### <img src="../../../images/custom_emojis/secondary.png" width="48" height="48" alt="Secondary" align="absmiddle"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
