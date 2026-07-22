@@ -1,29 +1,29 @@
-# <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:100px;vertical-align:text-bottom;"></picture> Seraphina Bot Lane Guide
+# <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_Render.png/407px-Seraphine_Render.png?7458d" style="width:100px;vertical-align:text-bottom;"> Seraphina Bot Lane Guide
 
-## <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:25px;vertical-align:text-bottom;"></picture> Runes
+## <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:25px;vertical-align:text-bottom;"> Runes
 	
 ### **Keystone** 🔑🪨
-1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;vertical-align:text-bottom;"></picture> <ins>Arcane Comet</ins>
+1. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;vertical-align:text-bottom;"> <ins>Arcane Comet</ins>
 	- Default choice.
-2. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;vertical-align:text-bottom;"></picture> <ins>Conqueror</ins>
+2. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;vertical-align:text-bottom;"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- 🔻✨ Low Magic damage teams
-3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;vertical-align:text-bottom;"></picture> <ins>First Strike</ins>
+3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" style="width:20px;vertical-align:text-bottom;"> <ins>First Strike</ins>
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- 🔺✨ High Magic damage teams
-4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;vertical-align:text-bottom;"></picture> <ins>Glacial Augment</ins>
+4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" style="width:20px;vertical-align:text-bottom;"> <ins>Glacial Augment</ins>
 	- vs
 		- 🔻🛣️⚔️ Low Laning power
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### **Primary** <picture><img src="images\primary.png" style="width: 27px; vertical-align: bottom;"></picture>
+### **Primary** <img src="images\primary.png" style="width: 27px; vertical-align: bottom;">
 
-1. <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;vertical-align:text-bottom;"></picture> Arcane Comet
+1. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;vertical-align:text-bottom;"> Arcane Comet
 	1. First Row
 		- Manaflow Band (Default)
 	
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### **Secondary** <picture><img src="images\secondary.png" style="width:25px;vertical-align:text-bottom;">
+### **Secondary** <img src="images\secondary.png" style="width:25px;vertical-align:text-bottom;">
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
@@ -83,7 +83,7 @@
 	- Transcendence (Default)
 }
 
-### **Shards** <picture><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/BE_icon.png/100px-BE_icon.png?7e9ea" style="width:25px;vertical-align:text-bottom;"></picture>
+### **Shards** <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/BE_icon.png/100px-BE_icon.png?7e9ea" style="width:25px;vertical-align:text-bottom;">
 
 - Ability Haste (Default)
 
