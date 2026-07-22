@@ -3,9 +3,9 @@
 ## <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:25px;vertical-align:text-bottom;"> Runes
 	
 ### **Keystone** 🔑🪨
-1. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" style="width:20px;vertical-align:text-bottom;"> <ins>Arcane Comet</ins>
+1. <table><tr><td valign="middle"><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" width="20" height="20" alt="Arcane Comet"></td><td valign="middle"><ins>Arcane Comet</ins></td></tr></table>
 	- Default choice.
-2. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" style="width:20px;vertical-align:text-bottom;"> <ins>Conqueror</ins>
+2. <table><tr><td valign="middle"><img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" width="20" height="20" alt="Conqueror"></td><td valign="middle"><ins>Conqueror</ins></td></tr></table>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
