@@ -61,6 +61,8 @@
 	<img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> <img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> <img src="../../../images/runes/precision/choices/LastStand.png" width="32" height="32" alt="Last Stand" align="absmiddle">
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/precision/choices/CutDown.png" width="32" height="32" alt="Cut Down" align="absmiddle"> *Default*
+	<br/>
+	<br/>
 
 3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	<br/>
@@ -78,6 +80,8 @@
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
+	<br/>
+	<br/>
 
 4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	<br/>
@@ -131,6 +135,8 @@
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> If you really need your summoners up, swap with Cash Back
+	<br/>
+	<br/>
 
 2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 	<br/>
@@ -165,6 +171,8 @@
 	<img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle">
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> If you need to scale faster
+	<br/>
+	<br/>
 
 3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	<br/>
@@ -184,6 +192,7 @@
 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
 	<br/>
 	<br/>
+
 4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	<br/>
 	<br/>
@@ -201,14 +210,8 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> *Default*
 
-{
-	- Manaflow Band (Default)
-	- Transcendence (Default)
-	- Gathering Storm (vs Passive Lanes)
-	
-	- Triple Tonic (If you need to scale faster)
-	- Jack of All Trades (If you need to scale faster)
-}
+
+
 {
 	- Manaflow Band (Default)
 	- Transcendence (Default)
