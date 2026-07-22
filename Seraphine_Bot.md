@@ -3,27 +3,27 @@
 ## <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Rune_icon.png/100px-Rune_icon.png?c9672" style="width:25px;vertical-align:text-bottom;"> Runes
 	
 ### **Keystone** 🔑🪨
-1. ![Arcane Comet](https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0) <ins>Arcane Comet</ins>
+1. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" width="20" height="20" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
-2. ![Conqueror](https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b) <ins>Conqueror</ins>
+2. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Conqueror_rune.png/52px-Conqueror_rune.png?da75b" width="20" height="20" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- 🔻✨ Low Magic damage teams
-3. ![First Strike](https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4) <ins>First Strike</ins>
+3. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/First_Strike_rune.png/52px-First_Strike_rune.png?705c4" width="20" height="20" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- 🔺✨ High Magic damage teams
-4. ![Glacial Augment](https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19) <ins>Glacial Augment</ins>
+4. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Glacial_Augment_rune.png/52px-Glacial_Augment_rune.png?10b19" width="20" height="20" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
 	- vs
 		- 🔻🛣️⚔️ Low Laning power
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### **Primary** ![Primary](images/primary.png)
+### <img src="images/primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
 
-1. ![Arcane Comet](https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0) Arcane Comet
+1. <img src="https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_Comet_rune.png/52px-Arcane_Comet_rune.png?cffe0" width="20" height="20" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	1. First Row
 		- Manaflow Band (Default)
 	
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### **Secondary** ![Secondary](images/secondary.png)
+### <img src="images/secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
