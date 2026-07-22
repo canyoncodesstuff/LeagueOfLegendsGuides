@@ -1,29 +1,29 @@
-# <img src="../../../images/processed/seraphine_render.png" width="100" height="100" alt="Seraphine" align="absmiddle"> Seraphina Bot Lane Guide
+# <img src="../../../images/champions_centered/Seraphine_0.jpg" width="100" height="100" alt="Seraphine" align="absmiddle"> Seraphina Bot Lane Guide
 
-## <img src="../../../images/processed/runes_icon.png" width="24" height="24" alt="Runes" align="absmiddle"> Runes
+## <img src="../../../images/runes/RunesIcon.png" width="24" height="24" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
-1. <img src="../../../images\runes\sorcery\keystones\ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
+1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
-2. <img src="../../../images\runes\precision\keystones\Conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
+2. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
 		- 🔻✨ Low Magic damage teams
-3. <img src="../../../images/processed/first_strike.png" width="20" height="20" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
+3. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="35" height="35" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
 	- vs
 		- 🛡️ Tanky comps, w/ 💣 AoE Value
 	- with
 		- 🔺✨ High Magic damage teams
-4. <img src="../../../images/processed/glacial_augment.png" width="20" height="20" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
+4. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="35" height="35" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
 	- vs
 		- 🔻🛣️⚔️ Low Laning power
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <img src="../../../images/processed/custom_primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
+### <img src="../../../images/custom_emojis/primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
 
-1. <img src="../../../images/processed/arcane_comet.png" width="20" height="20" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	1. First Row
 		- Manaflow Band (Default)
 	
@@ -55,7 +55,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <img src="../../../images/processed/custom_secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
+### <img src="../../../images/custom_emojis/secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
@@ -83,7 +83,7 @@
 	- Transcendence (Default)
 }
 
-### **Shards** <img src="../../../images/processed/be_icon.png" width="24" height="24" alt="Shards" align="absmiddle">
+### **Shards** <img src="../../../images/runes/RunesIcon.png" width="24" height="24" alt="Shards" align="absmiddle">
 
 - Ability Haste (Default)
 
