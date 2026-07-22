@@ -4,20 +4,23 @@
 	
 ### **Keystone** 🔑🪨
 1. <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> <ins>Glacial Augment</ins>
-	- vs
-		- 🔻🛣️⚔️ Low Laning power
-	- with
-		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
+	- Enemy
+		- 🔻🛣️ Low Laning Power
+	- Allies
+		- 🔻⛓️ Low CC
+		- 🔺⚔️ High Damage
 2. <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> <ins>First Strike</ins>
-	- vs
-		- 🛡️ Tanky comps, w/ 💣 AoE Value
-	- with
-		- 🔺✨ High Magic damage teams
+	- Enemy
+		- 🛡️ Tanky
+		- 💣 AoE Value
+	- Allies
+		- 🔺✨ High Magic Damage
 3. <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
-	- vs 
-		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
-	- with
-		- 🔻✨ Low Magic damage teams
+	- Enemy
+		- 🛡️ Tanky
+		- ⏩🤝🏻 Long Trades
+	- Allies
+		- 🔻✨ Low Magic Damage
 4. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
 
