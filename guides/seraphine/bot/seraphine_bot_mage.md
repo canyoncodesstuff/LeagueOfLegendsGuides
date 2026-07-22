@@ -22,7 +22,7 @@
 	- with
 		- 🔻⛓️ Low CC, 🔺⚔️ High Damage teams
 
-### <img src="../../../images/custom_emojis/primary.png" width="24" height="24" alt="Primary" align="absmiddle"> Primary
+### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> Primary
 
 1. <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	1. First Row
@@ -56,7 +56,7 @@
 	
 	- Jack of All Trades (Default)
 }
-### <img src="../../../images/custom_emojis/secondary.png" width="24" height="24" alt="Secondary" align="absmiddle"> Secondary
+### <img src="../../../images/custom_emojis/secondary.png" width="32" height="32" alt="Secondary" align="absmiddle"> Secondary
 {
 	- Legend: Haste (Default)
 	- Coup de Grace (Default)
