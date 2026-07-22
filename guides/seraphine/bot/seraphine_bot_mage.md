@@ -3,9 +3,9 @@
 ## <img src="../../../images/processed/runes_icon.png" width="24" height="24" alt="Runes" align="absmiddle"> Runes
 	
 ### **Keystone** 🔑🪨
-1. <img src="../../../images/processed/arcane_comet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
+1. <img src="images\runes\sorcery\keystones\ArcaneComet.png" width="35" height="35" alt="Arcane Comet" align="absmiddle"> <ins>Arcane Comet</ins>
 	- Default choice.
-2. <img src="../../../images/processed/conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
+2. <img src="images\runes\precision\keystones\Conqueror.png" width="35" height="35" alt="Conqueror" align="absmiddle"> <ins>Conqueror</ins>
 	- vs 
 		- 🛡️ Tanky comps, w/ ⏩🤝🏻 Long Trades
 	- with
