@@ -59,6 +59,7 @@
 	</td>
   </tr>
 </table>
+- [Secondaries](#-Arcane-Comet-2)
 
 #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 <br/>
