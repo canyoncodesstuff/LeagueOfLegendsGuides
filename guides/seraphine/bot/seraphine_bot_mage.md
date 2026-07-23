@@ -33,7 +33,7 @@
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 <br/>
 <br/>
-<img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle">&#9;|&#9;<img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*
+<table><tr><td><img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;</td><td><img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*</td></tr></table>
 <br/>
 <br/>
 <img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/CelerityTemp.png" width="32" height="32" alt="Celerity" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/AbsoluteFocus.png" width="32" height="32" alt="Absolute Focus" align="absmiddle">
