@@ -4,25 +4,25 @@
 	
 ### 🔑🪨 <ins>**Keystone**</ins>
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
-	- Enemy
-		- 🔻🛣️ Low Laning Power (You can just play to neutralize the lane.)
-	- Allies
-		- 🔻⛓️ Low CC
-		- 🔺⚔️ High Damage
+- Enemy
+	- 🔻🛣️ Low Laning Power (You can just play to neutralize the lane.)
+- Allies
+	- 🔻⛓️ Low CC
+	- 🔺⚔️ High Damage
 #### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
-	- Enemy
-		- 🛡️ Tanky
-		- 💣 AoE Value
-	- Allies
-		- 🔺✨ High Magic Damage
+- Enemy
+	- 🛡️ Tanky
+	- 💣 AoE Value
+- Allies
+	- 🔺✨ High Magic Damage
 #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
-	- Enemy
-		- 🛡️ Tanky
-		- ⏩🤝🏻 Long Trades
-	- Allies
-		- 🔻✨ Low Magic Damage
-#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#<img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle">-Arcane-Comet)
-	- *Default*
+- Enemy
+	- 🛡️ Tanky
+	- ⏩🤝🏻 Long Trades
+- Allies
+	- 🔻✨ Low Magic Damage
+#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#Arcane-Comet-1)
+- *Default*
 
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
 
