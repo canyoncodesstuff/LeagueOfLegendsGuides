@@ -21,7 +21,7 @@
 		- ⏩🤝🏻 Long Trades
 	- Allies
 		- 🔻✨ Low Magic Damage
-4. #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+4. #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#<img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle">-Arcane-Comet)
 	- *Default*
 
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
