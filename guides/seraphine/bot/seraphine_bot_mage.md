@@ -33,17 +33,13 @@
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 <br/>
 <br/>
-<table><tr><td><img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;</td><td><img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*</td></tr></table>
+<table><tr><td><img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle"><br/><img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> *Default*</td></tr></table>
 <br/>
 <br/>
-<img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/CelerityTemp.png" width="32" height="32" alt="Celerity" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/AbsoluteFocus.png" width="32" height="32" alt="Absolute Focus" align="absmiddle">
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> *Default*	
+<table><tr><td><img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/CelerityTemp.png" width="32" height="32" alt="Celerity" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/AbsoluteFocus.png" width="32" height="32" alt="Absolute Focus" align="absmiddle"><br/><img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> *Default*</td></tr></table>
 <br/>
 <br/>
-<img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/Waterwalking.png" width="32" height="32" alt="Waterwalking" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle">	
-&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> *Default* **OR** <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle"> If you don't need combat power in lane.
+<table><tr><td><img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/Waterwalking.png" width="32" height="32" alt="Waterwalking" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle"><br/><img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> *Default* **OR** <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle"> If you don't need combat power in lane.</td></tr></table>
 <br/>
 <br/>
 
