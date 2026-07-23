@@ -9,20 +9,28 @@
 - Allies
 	- 🔻⛓️ Low CC
 	- 🔺⚔️ High Damage
+- [Primaries](#-Glacial-Augment-1)
+- [Secondaries](#-Glacial-Augment-2)
 #### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 - Enemy
 	- 🛡️ Tanky
 	- 💣 AoE Value
 - Allies
 	- 🔺✨ High Magic Damage
+- [Primaries](#-First-Strike-1)
+- [Secondaries](#-First-Strike-2)
 #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 - Enemy
 	- 🛡️ Tanky
 	- ⏩🤝🏻 Long Trades
 - Allies
 	- 🔻✨ Low Magic Damage
-#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#Arcane-Comet-1)
+- [Primaries](#-Conqueror-1)
+- [Secondaries](#-Conqueror-2)
+#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 - *Default*
+- [Primaries](#-Arcane-Comet-1)
+- [Secondaries](#-Arcane-Comet-2)
 
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
 
