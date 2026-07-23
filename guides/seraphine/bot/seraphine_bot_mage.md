@@ -3,30 +3,30 @@
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 ### 🔑🪨 <ins>**Keystone**</ins>
-1. #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
+#### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	- Enemy
 		- 🔻🛣️ Low Laning Power (You can just play to neutralize the lane.)
 	- Allies
 		- 🔻⛓️ Low CC
 		- 🔺⚔️ High Damage
-2. #### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
+#### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	- Enemy
 		- 🛡️ Tanky
 		- 💣 AoE Value
 	- Allies
 		- 🔺✨ High Magic Damage
-3. #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
+#### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 	- Enemy
 		- 🛡️ Tanky
 		- ⏩🤝🏻 Long Trades
 	- Allies
 		- 🔻✨ Low Magic Damage
-4. #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#<img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle">-Arcane-Comet)
+#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet [Primaries](#<img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle">-Arcane-Comet)
 	- *Default*
 
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
 
-1. #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	<br/>
 	<br/>
 	<img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle">
@@ -45,7 +45,7 @@
 	<br/>
 	<br/>
 
-2. #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
+#### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/AbsorbLife.png" width="32" height="32" alt="Absorb Life" align="absmiddle"> <img src="../../../images/runes/precision/choices/Triumph.png" width="32" height="32" alt="Triumph" align="absmiddle"> <img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle">
@@ -64,7 +64,7 @@
 	<br/>
 	<br/>
 
-3. #### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
+#### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
@@ -83,7 +83,7 @@
 	<br/>
 	<br/>
 
-4. ####	 <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
+####	 <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
@@ -102,7 +102,7 @@
 
 ### <img src="../../../images/custom_emojis/secondary.png" width="32" height="32" alt="Secondary" align="absmiddle"> <ins>**Secondary**</ins>
 
-1. #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+#### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 	<br/>
 	<br/>
 	<img src="../../../images/runes/precision/choices/AbsorbLife.png" width="32" height="32" alt="Absorb Life" align="absmiddle"> <img src="../../../images/runes/precision/choices/Triumph.png" width="32" height="32" alt="Triumph" align="absmiddle"> <img src="../../../images/runes/precision/choices/PresenceOfMind.png" width="32" height="32" alt="Presence of Mind" align="absmiddle">
@@ -138,7 +138,7 @@
 	<br/>
 	<br/>
 
-2. #### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
+#### <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
 	<br/>
 	<br/>
 	<img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle">
@@ -174,7 +174,7 @@
 	<br/>
 	<br/>
 
-3. #### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
+#### <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
@@ -193,7 +193,7 @@
 	<br/>
 	<br/>
 
-4. #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
+#### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 	<br/>
 	<br/>
 	<img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle">
