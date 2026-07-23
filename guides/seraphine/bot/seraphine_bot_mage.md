@@ -3,7 +3,7 @@
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 <details>
-### <summary>:old_key::rock: <ins>**Keystone**</ins></summary>
+  <summary>:old_key::rock: <ins><b>Keystone</b></ins></summary>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 - Enemy
