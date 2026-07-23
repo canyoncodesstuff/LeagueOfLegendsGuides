@@ -171,7 +171,7 @@
     <td><img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> <em>Default</em></td>
   </tr>
   <tr>
-    <td><strong>OR</strong></td>
+    <td align="center"><strong>OR</strong></td>
     <td></td>
   </tr>
   <tr>
