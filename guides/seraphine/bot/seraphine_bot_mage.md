@@ -2,9 +2,9 @@
 
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
-### 🔑🪨 <ins>**Keystone**</ins>
+### :old_key::rock: <ins>**Keystone**</ins>
 
------------------------------------------------------------------------
+<details>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 - Enemy
@@ -30,6 +30,8 @@
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 - *Default*
 - [Primaries](#-Arcane-Comet-1)
+
+</details>
 
 ### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
 
