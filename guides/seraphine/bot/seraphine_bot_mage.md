@@ -171,8 +171,8 @@
     <td><img src="../../../images/runes/precision/choices/CoupDeGrace.png" width="32" height="32" alt="Coup De Grace" align="absmiddle"> <em>Default</em></td>
   </tr>
   <tr>
-    <td></td>
     <td><strong>OR</strong></td>
+    <td></td>
   </tr>
   <tr>
     <td><img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"></td>
