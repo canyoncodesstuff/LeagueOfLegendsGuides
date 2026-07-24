@@ -263,12 +263,21 @@
   </tr>
 </table>
 
-{
-	- Manaflow Band (Default)
-	- Transcendence (Default)
-}
+</details>
 
-### **Shards** <img src="../../../images/runes/RunesIcon.png" width="24" height="24" alt="Shards" align="absmiddle">
+<details>
+  <summary><img src="../../../images/runes/shards/BlueEssence.png" width="24" height="24" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
+
+  <table>
+    <tr>
+      <td><img src="../../../images/runes/shards/StatModsAdaptiveForceIcon.png" width="32" height="32" alt="Adaptive Force" align="absmiddle"> <img src="../../../images/runes/shards/StatModsAttackSpeedIcon.png" width="32" height="32" alt="Attack Speed" align="absmiddle"> <img src="../../../images/runes/shards/StatModsCDRScalingIcon.png" width="32" height="32" alt="Ability Haste" align="absmiddle"></td>
+      <td><img src="../../../images/runes/shards/StatModsCDRScalingIcon.png" width="32" height="32" alt="Ability Haste" align="absmiddle"> <em>Default</em></td>
+    </tr>
+    <tr>
+    </tr>
+  </table>
+
+</details>
 
 - Ability Haste (Default)
 
