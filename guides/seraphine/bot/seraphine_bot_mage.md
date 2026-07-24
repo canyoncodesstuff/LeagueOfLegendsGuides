@@ -250,16 +250,16 @@
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 <table>
   <tr>
-    <td><img src="../../../images/runes/inspiration/choices/HextechFlashtraption.png" width="32" height="32" alt="Hextech Flashtraption" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/MagicalFootwear.png" width="32" height="32" alt="Magical Footwear" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"></td>
-    <td><img src="../../../images/runes/inspiration/choices/CashBack2.png" width="32" height="32" alt="Cash Back" align="absmiddle"> <em>Default</em></td>
+    <td><img src="../../../images/runes/sorcery/choices/Axiom_Arcanist.png" width="32" height="32" alt="Axiom Arcanist" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/6361.png" width="32" height="32" alt="Nimbus Cloak" align="absmiddle"></td>
+    <td><img src="../../../images/runes/sorcery/choices/ManaflowBand.png" width="32" height="32" alt="Manaflow Band" align="absmiddle"> <em>Default</em></td>
   </tr>
   <tr>
-    <td><img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/TimeWarpTonic.png" width="32" height="32" alt="Time Warp Tonic" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/BiscuitDelivery.png" width="32" height="32" alt="Biscuit Delivery" align="absmiddle"></td>
-    <td><img src="../../../images/runes/inspiration/choices/AlchemistCabinet.png" width="32" height="32" alt="Triple Tonic" align="absmiddle"> <em>Default</em></td>
+    <td><img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/CelerityTemp.png" width="32" height="32" alt="Celerity" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/AbsoluteFocus.png" width="32" height="32" alt="Absolute Focus" align="absmiddle"></td>
+    <td><img src="../../../images/runes/sorcery/choices/Transcendence.png" width="32" height="32" alt="Transcendence" align="absmiddle"> <em>Default</em></td>
   </tr>
   <tr>
-    <td><img src="../../../images/runes/inspiration/choices/CosmicInsight.png" width="32" height="32" alt="Cosmic Insight" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/ApproachVelocity.png" width="32" height="32" alt="Approach Velocity" align="absmiddle"> <img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"></td>
-    <td><img src="../../../images/runes/inspiration/choices/JackofAllTrades2.png" width="32" height="32" alt="Jack of All Trades" align="absmiddle"> <em>Default</em></td>
+    <td><img src="../../../images/runes/sorcery/choices/Scorch.png" width="32" height="32" alt="Scorch" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/Waterwalking.png" width="32" height="32" alt="Waterwalking" align="absmiddle"> <img src="../../../images/runes/sorcery/choices/GatheringStorm.png" width="32" height="32" alt="Gathering Storm" align="absmiddle"></td>
+    <td></td>
   </tr>
 </table>
 
