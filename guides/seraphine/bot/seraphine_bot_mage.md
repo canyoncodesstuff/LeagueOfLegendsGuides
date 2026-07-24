@@ -265,9 +265,8 @@
 
 </details>
 
-<details>
+<details open>
   <summary><img src="../../../images/runes/shards/BlueEssence.png" width="24" height="24" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
-  <br/>
   <br/>
   <table>
     <tr>
