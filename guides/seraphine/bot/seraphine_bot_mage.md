@@ -2,7 +2,7 @@
 
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
-<details>
+<details open>
   <summary>:old_key::rock: <ins><b>Keystone</b></ins></summary>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
@@ -32,7 +32,7 @@
 
 </details>
 
-<details>
+<details open>
 	<summary><img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
