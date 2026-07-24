@@ -32,7 +32,8 @@
 
 </details>
 
-### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins>
+<details>
+	<summary><img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins>**Primary**</ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 
@@ -157,6 +158,8 @@
 </table>
 
 - [Secondaries](#-Glacial-Augment-2)
+
+</details>
 
 ### <img src="../../../images/custom_emojis/secondary.png" width="32" height="32" alt="Secondary" align="absmiddle"> <ins>**Secondary**</ins>
 
