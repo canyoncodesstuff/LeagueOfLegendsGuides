@@ -295,11 +295,17 @@
 
 </details>
 
-	Items
-	
-Starting Item
-- Doran's Ring (Default)
-- Dark Seal (Always pick up early)
+<details open>
+  <summary><img src="../../../images/misc_official/gold.png" width="28" height="28" alt="Items" align="absmiddle"> <ins><b>Items</b></ins></summary>
+
+#### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Starting Items" align="absmiddle"> Starting Items
+
+- Doran's Ring - *Default*
+- Dark Seal - Always pick up early.
+
+</details>
+
+
 
 First Item
 - Blackfire Torch [Arcane Comet, Conquerer, First Strike] (
