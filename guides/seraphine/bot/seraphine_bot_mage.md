@@ -301,12 +301,12 @@
 
 #### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Starting Items" align="absmiddle"> Starting Items
 
-- Doran's Ring - *Default*
-- Dark Seal - Always pick up early.
+- <img src="../../../images/items/DoransRing.png" width="32" height="32" alt="Doran's Ring" align="absmiddle"> Doran's Ring - *Default*
+- <img src="../../../images/items/DarkSeal.png" width="32" height="32" alt="Dark Seal" align="absmiddle"> Dark Seal - Always pick up early.
 
 #### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="First Item" align="absmiddle"> First Item
 
-- Blackfire Torch - *Default*
+- <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> Blackfire Torch - *Default*
 
 </details>
 
