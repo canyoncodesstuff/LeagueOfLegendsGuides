@@ -292,7 +292,7 @@
 #### <!-- Header as a space between the Summary and the table -->
 - <img src="../../../images/summoner_spells/SummonerFlash.png" width="32" height="32" alt="Flash" align="absmiddle"> Flash - <em>Must</em>
 - <img src="../../../images/summoner_spells/SummonerTeleport.png" width="32" height="32" alt="Teleport" align="absmiddle"> Teleport - <em>Default</em>
-- <img src="../../../images/summoner_spells/SummonerBarrier.png" width="32" height="32" alt="Barrier" align="absmiddle"> Barrier - vs 🛡️ Tanky comps, or 🔪 Kill lanes
+  - <img src="../../../images/summoner_spells/SummonerBarrier.png" width="32" height="32" alt="Barrier" align="absmiddle"> Barrier - vs 🛡️ Tanky comps, or 🔪 Kill lanes
 
 </details>
 
