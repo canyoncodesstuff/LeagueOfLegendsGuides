@@ -289,9 +289,9 @@
 <details open>
   <summary><img src="../../../images/summoner_spells/trailblazer_poro_icon.png" width="28" height="28" alt="Spells" align="absmiddle"> <ins><b>Spells</b></ins></summary>
 
-#### <img src="../../../images/summoner_spells/SummonerFlash.png" width="32" height="32" alt="Flash" align="absmiddle"> Flash - <em>Must</em>
-#### <img src="../../../images/summoner_spells/SummonerTeleport.png" width="32" height="32" alt="Teleport" align="absmiddle"> Teleport - <em>Default</em>
-#### <img src="../../../images/summoner_spells/SummonerBarrier.png" width="32" height="32" alt="Barrier" align="absmiddle"> Barrier - vs 🛡️ Tanky comps, or 🔪 Kill lanes
+- <img src="../../../images/summoner_spells/SummonerFlash.png" width="32" height="32" alt="Flash" align="absmiddle"> Flash - <em>Must</em>
+- <img src="../../../images/summoner_spells/SummonerTeleport.png" width="32" height="32" alt="Teleport" align="absmiddle"> Teleport - <em>Default</em>
+- <img src="../../../images/summoner_spells/SummonerBarrier.png" width="32" height="32" alt="Barrier" align="absmiddle"> Barrier - vs 🛡️ Tanky comps, or 🔪 Kill lanes
 
 </details>
 
