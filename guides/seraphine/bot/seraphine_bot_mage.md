@@ -3,7 +3,7 @@
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 <details open>
-  <summary><img src="../../../images/misc_official/hextech_key_fragment.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
+  <summary><img src="../../../images/runes/inspiration/keystones/UnsealedSpellbook.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 - Enemy
@@ -266,7 +266,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/misc_official/mark-token.svg" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
+  <summary><img src="../../../images/misc_official/y_4_3.png" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
 
   #### <!-- Header as a space between the Summary and the table -->
   <table>
