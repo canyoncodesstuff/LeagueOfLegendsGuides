@@ -3,7 +3,7 @@
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 <details open>
-  <summary><img src="../../../images/runes/inspiration/keystones/UnsealedSpellbook.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
+  <summary><img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 - Enemy
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-	<summary><img src="../../../images/runes/sorcery/7202_Sorcery.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
+	<summary><img src="../../../images/runes/sorcery/7202_Sorcery.png" width="28" height="28" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 
