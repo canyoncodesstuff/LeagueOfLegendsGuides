@@ -295,13 +295,6 @@
 
 </details>
 
-	Spells
-	
-- Flash (Must)
-
-- Teleport (Default)
-- Barrier (vs Tanky Comps, or kill lanes)
-
 	Items
 	
 Starting Item
