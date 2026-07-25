@@ -1,4 +1,4 @@
-# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bottom.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
+# <img src="../../../images/champions_centered/seraphine/Seraphine_68.jpg" width="20%" alt="Seraphine" align="absmiddle"> <img src="../../../images/lanes/bot-challenger.png" width="50" height="50" alt="Bottom Lane" align="absmiddle"> <img src="../../../images/roles/mage.png" width="50" height="50" alt="Mage" align="absmiddle"> Seraphina Bot Lane Mage Guide
 
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
@@ -266,7 +266,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/runes/shards/BlueEssence.png" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
+  <summary><img src="../../../images/misc_official/mythic-essence.png" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
 
   #### <!-- Header as a space between the Summary and the table -->
   <table>
