@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-	<summary><img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
+	<summary><img src="../../../images/runes/sorcery/7202_Sorcery.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 
@@ -162,7 +162,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/custom_emojis/secondary.png" width="32" height="32" alt="Secondary" align="absmiddle"> <ins><b>Secondary</b></ins></summary>
+  <summary><img src="../../../images/runes/precision/7201_Precision.png" width="32" height="32" alt="Secondary" align="absmiddle"> <ins><b>Secondary</b></ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 <table>
