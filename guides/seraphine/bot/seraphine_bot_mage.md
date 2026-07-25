@@ -266,7 +266,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/runes/shards/BlueEssence.png" width="24" height="24" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
+  <summary><img src="../../../images/runes/shards/BlueEssence.png" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
 
   #### <!-- Header as a space between the Summary and the table -->
   <table>
