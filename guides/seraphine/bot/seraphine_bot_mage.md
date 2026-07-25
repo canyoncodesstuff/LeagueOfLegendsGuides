@@ -162,7 +162,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/runes/precision/7201_Precision.png" width="32" height="32" alt="Secondary" align="absmiddle"> <ins><b>Secondary</b></ins></summary>
+  <summary><img src="../../../images/runes/precision/7201_Precision.png" width="28" height="28" alt="Secondary" align="absmiddle"> <ins><b>Secondary</b></ins></summary>
 
 #### <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
 <table>
@@ -266,7 +266,7 @@
 </details>
 
 <details open>
-  <summary><img src="../../../images/misc_official/y_4_3.png" width="32" height="32" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
+  <summary><img src="../../../images/misc_official/y_4_3.png" width="28" height="28" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
 
   #### <!-- Header as a space between the Summary and the table -->
   <table>
@@ -283,6 +283,14 @@
       <td><img src="../../../images/runes/shards/StatModsHealthPlusIcon.png" width="32" height="32" alt="Scaling Health" align="absmiddle"> <em>Default</em></td>
     </tr>
   </table>
+
+</details>
+
+<details open>
+  <summary><img src="../../../images/summoner_spells/trailblazer_poro_icon.png" width="28" height="28" alt="Spells" align="absmiddle"> <ins><b>Spells</b></ins></summary>
+
+#### <img src="../../../images/summoner_spells/SummonerFlash.png" width="32" height="32" alt="Flash" align="absmiddle"> Flash - <em>Must</em>
+
 
 </details>
 
