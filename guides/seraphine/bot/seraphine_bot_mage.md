@@ -304,6 +304,10 @@
 - Doran's Ring - *Default*
 - Dark Seal - Always pick up early.
 
+#### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="First Item" align="absmiddle"> First Item
+
+- Blackfire Torch - *Default*
+
 </details>
 
 
