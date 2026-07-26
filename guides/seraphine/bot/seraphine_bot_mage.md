@@ -309,15 +309,19 @@
 - <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
   - <img src="../../../images/items/RylaisCrystalScepter.png" width="32" height="32" alt="Rylai's Crystal Scepter" align="absmiddle"> - If your jungle & support have no gank setup between them. Pick up a tear early for either Seraph's or Diadem.
   - <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - If you absolutely need either the shield it provides early or more mana than other <img src="../../../images/items/LostChapter.png" width="16" height="16" alt="Lost Chapter" align="absmiddle"> items provide.
-  - <img src="../../../images/items/Shadowflame.png" width="32" height="32" alt="Shadowflame" align="absmiddle"> - If you're snowballing and have the economy for it. Pick up a tear early for either Seraph's. *This will make your comet crit as well*
+  - <img src="../../../images/items/Shadowflame.png" width="32" height="32" alt="Shadowflame" align="absmiddle"> - If you're snowballing and have the economy for it. Pick up a tear early for either Seraph's. *This will make your comet crit*
   - <img src="../../../images/items/LudensEcho.png" width="32" height="32" alt="Luden's Echo" align="absmiddle"> - If teamfights won't be grouped up or if you need maximum waveclear.
+  - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
+
+- <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
+  - <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - If you absolutely need the dash early. Pick up a tear early.
+  - <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - If you expect tightly packed and frequent teamfights, especially if your team is lacking CC but has plenty damage.
   - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
 
 
 
-- <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - (Arcane Comet, First Strike)
-- <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - (Conquerer)
-- <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - (Conquerer)
+- <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - (First Strike)
+
 
 </details>
 
@@ -329,7 +333,7 @@ First Item
 - Seraph's Embrace (Arcane Comet, Glacial Augment, 
 - Imperial Mandate (First Strike, 
 - Hextech Rocketbelt (Conquerer, 
-- Malignance (Conquerer, 
+- Malignance (Conquerer, First Strike
 - Shadowflame (Arcane Comet, 
 - Rylai's Crystal Scepter (Arcane Comet, Glacial Augment,
 
