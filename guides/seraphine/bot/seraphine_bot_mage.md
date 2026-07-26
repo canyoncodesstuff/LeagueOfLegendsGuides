@@ -307,11 +307,13 @@
 #### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="First Item" align="absmiddle"> First Item
 
 - <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
-  - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default* (Arcane Comet, Conquerer, First Strike)
-  - <img src="../../../images/items/RylaisCrystalScepter.png" width="32" height="32" alt="Rylai's Crystal Scepter" align="absmiddle"> - If your jungle & support have no gank setup between them. Pick up a tear early for either Seraph's or Diadem. (Arcane Comet, Glacial Augment)
+  - <img src="../../../images/items/RylaisCrystalScepter.png" width="32" height="32" alt="Rylai's Crystal Scepter" align="absmiddle"> - If your jungle & support have no gank setup between them. Pick up a tear early for either Seraph's or Diadem.
+  - <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - If you absolutely need the shield it provides or more mana than other <img src="../../../images/items/LostChapter.png" width="16" height="16" alt="Lost Chapter" align="absmiddle"> items provide.
+  - <img src="../../../images/items/LudensEcho.png" width="32" height="32" alt="Luden's Echo" align="absmiddle"> - If teamfights won't be grouped up or if you need maximum waveclear.
+  - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
 
-- <img src="../../../images/items/LudensEcho.png" width="32" height="32" alt="Luden's Echo" align="absmiddle"> - (Arcane Comet)
-- <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - (Arcane Comet, Glacial Augment)
+
+
 - <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - (Arcane Comet, First Strike)
 - <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - (Conquerer)
 - <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - (Conquerer)
