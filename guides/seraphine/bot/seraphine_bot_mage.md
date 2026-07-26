@@ -327,6 +327,23 @@
 - <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
   - <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - *Default* (You'll be stacking multiple tears, so keep it rolling)
 
+#### <img src="../../../images/items/boots/Boots.png" width="32" height="32" alt="Boots" align="absmiddle"> Boots
+
+- <img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Arcane Comet" align="absmiddle"> Arcane Comet
+  - <img src="../../../images/items/boots/Plated.png" width="32" height="32" alt="Plated" align="absmiddle"> / <img src="../../../images/items/boots/Mercury.png" width="32" height="32" alt="Mercury" align="absmiddle"> - Against all Physical / Magic damage.
+  - <img src="../../../images/items/boots/Swiftness.png" width="32" height="32" alt="Swiftness" align="absmiddle"> - If you need to dodge a lot of skillshots or combat powerful slows.
+  - <img src="../../../images/items/boots/Lucidity.png" width="32" height="32" alt="Lucidity" align="absmiddle"> - *Default*
+
+- <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
+  - <img src="../../../images/items/boots/Plated.png" width="32" height="32" alt="Plated" align="absmiddle"> / <img src="../../../images/items/boots/Mercury.png" width="32" height="32" alt="Mercury" align="absmiddle"> - Against all Physical / Magic damage.
+  - <img src="../../../images/items/boots/Swiftness.png" width="32" height="32" alt="Swiftness" align="absmiddle"> - If you need to dodge a lot of skillshots or combat powerful slows.
+  - <img src="../../../images/items/boots/Sorcerers.png" width="32" height="32" alt="Sorcerers" align="absmiddle"> - *Default*
+
+- <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
+  - <img src="../../../images/items/boots/Sorcerers.png" width="32" height="32" alt="Sorcerers" align="absmiddle"> - *Default*
+
+- <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
+  - <img src="../../../images/items/boots/Lucidity.png" width="32" height="32" alt="Lucidity" align="absmiddle"> - *Default*
 
 </details>
 
