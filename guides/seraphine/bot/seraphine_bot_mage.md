@@ -3,7 +3,7 @@
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
 <details open>
-  <summary><img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="32" height="32" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
+  <summary><img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="28" height="28" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
 
 #### <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
 - Enemy
@@ -306,7 +306,14 @@
 
 #### <img src="../../../images/custom_emojis/primary.png" width="32" height="32" alt="First Item" align="absmiddle"> First Item
 
-- <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
+- <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default* (Arcane Comet, Conquerer, First Strike)
+- <img src="../../../images/items/LudensEcho.png" width="32" height="32" alt="Luden's Echo" align="absmiddle"> - (Arcane Comet)
+- <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - (Arcane Comet, Glacial Augment)
+- <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - (Arcane Comet, First Strike)
+- <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - (Conquerer)
+- <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - (Conquerer)
+- <img src="../../../images/items/Shadowflame.png" width="32" height="32" alt="Shadowflame" align="absmiddle"> - (Arcane Comet)
+- <img src="../../../images/items/RylaisCrystalScepter.png" width="32" height="32" alt="Rylai's Crystal Scepter" align="absmiddle"> - If your jungle & support have no gank setup between them. Pick up a tear early for either Seraph's or Diadem. (Arcane Comet, Glacial Augment)
 
 </details>
 
@@ -320,6 +327,7 @@ First Item
 - Hextech Rocketbelt (Conquerer, 
 - Malignance (Conquerer, 
 - Shadowflame (Arcane Comet, 
+- Rylai's Crystal Scepter (Arcane Comet, Glacial Augment,
 
 Boots
 - 
