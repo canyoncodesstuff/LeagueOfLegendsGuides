@@ -314,13 +314,18 @@
   - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
 
 - <img src="../../../images/runes/precision/keystones/Conqueror.png" width="32" height="32" alt="Conqueror" align="absmiddle"> Conqueror
-  - <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - If you absolutely need the dash early. Pick up a tear early.
+  - <img src="../../../images/items/HextechRocketbelt.png" width="32" height="32" alt="Hextech Rocketbelt" align="absmiddle"> - If you absolutely need the dash early. Pick up a tear prior to building.
   - <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - If you expect tightly packed and frequent teamfights, especially if your team is lacking CC but has plenty damage.
   - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - *Default*
 
+- <img src="../../../images/runes/inspiration/keystones/FirstStrike.png" width="32" height="32" alt="First Strike" align="absmiddle"> First Strike
+  - <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - Against a bottom lane with no dashes, with a support that can set up your E. Pick up an early tear.
+  - <img src="../../../images/items/Malignance.png" width="32" height="32" alt="Malignance" align="absmiddle"> - If you expect tightly packed and frequent teamfights, AND your team is lacking CC but has plenty damage.
+  - <img src="../../../images/items/BlackfireTorch.png" width="32" height="32" alt="Blackfire Torch" align="absmiddle"> - If you expect tightly packed and frequent teamfights.
+  - <img src="../../../images/items/LudensEcho.png" width="32" height="32" alt="Luden's Echo" align="absmiddle"> - *Default*
 
-
-- <img src="../../../images/items/ImperialMandate.png" width="32" height="32" alt="Imperial Mandate" align="absmiddle"> - (First Strike)
+- <img src="../../../images/runes/inspiration/keystones/GlacialAugment.png" width="32" height="32" alt="Glacial Augment" align="absmiddle"> Glacial Augment
+  - <img src="../../../images/items/SeraphsEmbrace.png" width="32" height="32" alt="Seraph's Embrace" align="absmiddle"> - *Default* (You'll be stacking multiple tears, so keep it rolling)
 
 
 </details>
@@ -329,7 +334,7 @@
 
 First Item
 - Blackfire Torch [Arcane Comet, Conquerer, First Strike] (
-- Luden's Echo (Arcane Comet, 
+- Luden's Echo (Arcane Comet, First Strike
 - Seraph's Embrace (Arcane Comet, Glacial Augment, 
 - Imperial Mandate (First Strike, 
 - Hextech Rocketbelt (Conquerer, 
