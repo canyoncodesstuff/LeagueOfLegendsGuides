@@ -2,6 +2,8 @@
 
 ## <img src="../../../images/runes/RunesIcon.png" width="32" height="32" alt="Runes" align="absmiddle"> Runes
 	
+<!-- Keystone -->
+
 <details open>
   <summary><img src="../../../images/runes/sorcery/keystones/ArcaneComet.png" width="28" height="28" alt="Primary" align="absmiddle"> <ins><b>Keystone</b></ins></summary>
 
@@ -31,6 +33,8 @@
 - [Primaries](#-Arcane-Comet-1)
 
 </details>
+
+<!-- Primary -->
 
 <details open>
 	<summary><img src="../../../images/runes/sorcery/7202_Sorcery.png" width="28" height="28" alt="Primary" align="absmiddle"> <ins><b>Primary</b></ins></summary>
@@ -161,6 +165,8 @@
 
 </details>
 
+<!-- Secondary -->
+
 <details open>
   <summary><img src="../../../images/runes/precision/7201_Precision.png" width="28" height="28" alt="Secondary" align="absmiddle"> <ins><b>Secondary</b></ins></summary>
 
@@ -265,6 +271,8 @@
 
 </details>
 
+<!-- Shards -->
+
 <details open>
   <summary><img src="../../../images/misc_official/y_4_3.png" width="28" height="28" alt="Shards" align="absmiddle"> <ins><b>Shards</b></ins></summary>
 
@@ -286,6 +294,8 @@
 
 </details>
 
+<!-- Spells -->
+
 <details open>
   <summary><img src="../../../images/summoner_spells/trailblazer_poro_icon.png" width="28" height="28" alt="Spells" align="absmiddle"> <ins><b>Spells</b></ins></summary>
 
@@ -295,6 +305,8 @@
   - <img src="../../../images/summoner_spells/SummonerBarrier.png" width="32" height="32" alt="Barrier" align="absmiddle"> Barrier - vs 🛡️ Tanky comps, or 🔪 Kill lanes
 
 </details>
+
+<!-- Items -->
 
 <details open>
   <summary><img src="../../../images/misc_official/gold.png" width="28" height="28" alt="Items" align="absmiddle"> <ins><b>Items</b></ins></summary>
